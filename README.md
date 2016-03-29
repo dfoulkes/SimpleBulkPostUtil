@@ -11,7 +11,7 @@ mvn package
 
 **Steps
 
-java -jar <PATH_TO_JAR>/SendHtmlRequest.jar <file_path_to_list_of_urls> <proxy> <port>
+java -jar PATH_TO_JAR/SendHtmlRequest.jar file_path_to_list_of_urls proxy port
 
 
 Notes
