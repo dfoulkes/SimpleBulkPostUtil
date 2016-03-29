@@ -16,4 +16,4 @@ java -jar <PATH_TO_JAR>/SendHtmlRequest.jar <file_path_to_list_of_urls> <proxy> 
 
 Notes
 
-if NOT using a proxy then leave the values for proxy and port empty, of you want a proxy you MUST supply both values
+if NOT using a proxy then leave the values for proxy and port empty, if you want a proxy you MUST supply both values
